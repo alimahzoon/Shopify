@@ -1,2 +1,0 @@
-# Shopify
-Data Science challenge
